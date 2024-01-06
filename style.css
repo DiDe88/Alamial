@@ -21,3 +21,6 @@ a{
 .section1, .section2, .section3, .sovet{
     margin-left: 25px;
 }
+div{
+    user-select: none;
+}
